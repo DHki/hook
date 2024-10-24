@@ -1,2 +1,2 @@
-#!/usr/bin/env pwsh
-Start-Process calc.exe
+#!/bin/bash
+calc.exe
